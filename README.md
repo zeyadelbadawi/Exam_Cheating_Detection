@@ -1,5 +1,7 @@
 Exam Cheating Detection System
+
 Description
+
 The Exam Cheating Detection System is a Python-based application designed to enhance the integrity of online exams. It employs face recognition technology to verify the identity of students and monitors their behavior during the exam to detect potential cheating attempts.
 
 Features
